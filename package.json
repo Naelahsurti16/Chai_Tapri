@@ -1,0 +1,15 @@
+{
+  "name": "chai-tapri",
+  "version": "1.0.0",
+  "description": "Cozy Arcade Vertical Slice - Mobile Landscape Game",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server . -p 8080 -c-1",
+    "start": "npx http-server . -p 8080 -c-1"
+  },
+  "keywords": ["phaser", "game", "mobile"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
